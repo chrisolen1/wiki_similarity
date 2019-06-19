@@ -1,18 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 27 21:25:50 2018
 
-@author: chrisolen
-"""
-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-#wiki_scraper
+#Libraries
 from bs4 import BeautifulSoup
 from string import digits
 import requests
